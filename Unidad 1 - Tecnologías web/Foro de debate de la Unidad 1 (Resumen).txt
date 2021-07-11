@@ -1,0 +1,13 @@
+¿Qué hay que tener en cuenta a la hora de contratar un hosting?
+
+	* Calidad del Servicio de Soporte
+	* Reseñas de otros usuarios que han utilizado el servicio
+	* Ubicación de los servidores fisicos
+	* Servicios de Backup, migración
+	* Tipos de Base de Datos
+	* Tecnologias soportadas 
+	* Descuentos por pago Anual
+	* Sistemas Operativos
+	* Limite del Ancho de Banda
+	* Espacio de Almacenamiento
+	* Seguridad (Firewall, Anti-DDOS)
