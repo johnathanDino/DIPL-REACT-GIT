@@ -10,11 +10,15 @@ h3{
     margin-top: 2rem;  
 }
 
-img{
-    background-color: aquamarine;
-    padding: 2px;
+div.fotoPerfil{
+    text-align: center;
 }
 
+div.fotoPerfil img{
+    background-color: aquamarine;
+    padding: 2px;
+    width: 33%;
+}
 
 li,ul{
     text-decoration: none;
